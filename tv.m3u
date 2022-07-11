@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://bit.ly/aqfadtvepg" refresh="1440"
+#EXTM3U url-tvg="https://bit.ly/AqFadTVEPG" refresh="1440"
   
 #EXTINF:-1 tvg-id="TV1HD" group-title="ENTERTAINMENT" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
