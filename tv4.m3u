@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://bit.ly/aqfadtvepg" refresh="1440"
+#EXTM3U url-tvg="https://bit.ly/AqFadTVEPG" refresh="1440"
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://freeview.github.io/logos/tv1.png",TV1 HD
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
