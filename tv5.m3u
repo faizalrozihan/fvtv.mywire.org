@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://bit.ly/aqfadtvepg" refresh="1440"
+#EXTM3U url-tvg="https://bit.ly/AqFadTVEPG" refresh="1440"
 
 #EXTINF:-1 tvg-id=" " group-title="MYSG" tvg-logo="https://freeview.github.io/iptv/logos/tv1.png",TV1 HD
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
