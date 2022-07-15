@@ -62,7 +62,7 @@ Some info:
 * EPG is updated daily at 01:00 with 3 days worth of data
 * Requires M3U players which support additional HTTP headers such as `Referer` and `User-Agent`
 * Sample in [Kodi](https://www.youtube.com/watch?v=u5BUG6iQHUc)
-
+* Sample in [TiviMate]
 ## Channels list
 Collecting almost 30 channels for free viewing! More channels will be added from time to time.
 
